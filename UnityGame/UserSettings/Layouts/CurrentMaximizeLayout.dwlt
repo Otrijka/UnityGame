@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 225
+  controlID: 492
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -284,9 +284,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 2825.1523, y: 8.221733, z: 2879.3528}
+    m_Target: {x: 2820.1047, y: 2.2676919, z: 2887.8552}
     speed: 2
-    m_Value: {x: 2825.1523, y: 8.221733, z: 2879.3528}
+    m_Value: {x: 2820.1047, y: 2.2676919, z: 2887.8552}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -333,9 +333,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.10490174, y: 0.8811407, z: -0.27853957, w: -0.36968166}
+    m_Target: {x: -0.03423698, y: -0.10107316, z: -0.0073904414, w: -0.9950992}
     speed: 2
-    m_Value: {x: -0.104677424, y: 0.8802707, z: -0.27683008, w: -0.37085196}
+    m_Value: {x: -0.034197398, y: -0.0994976, z: -0.0074356007, w: -0.99442214}
   m_Size:
     m_Target: 2.099066
     speed: 2
@@ -388,7 +388,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 226
+  controlID: 493
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -413,7 +413,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 227
+  controlID: 494
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -677,7 +677,7 @@ MonoBehaviour:
     m_SaveData: []
     m_OverlaysVisible: 1
   m_SearchFilter:
-    m_NameFilter: bush
+    m_NameFilter: 
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -687,24 +687,24 @@ MonoBehaviour:
     m_SceneHandles: 
     m_ShowAllHits: 0
     m_SkipHidden: 0
-    m_SearchArea: 3
+    m_SearchArea: 1
     m_Folders:
-    - Assets/POLYGON city pack/Materials
+    - Assets/Customizable Skybox/Stylized Sky/Materials
     m_Globs: []
-    m_OriginalText: bush
+    m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 78
   m_LastFolders:
-  - Assets/POLYGON city pack/Materials
+  - Assets/Customizable Skybox/Stylized Sky/Materials
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Aleksandr\Documents\GitHub\UnityGame\UnityGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 191}
-    m_SelectedIDs: a6620000
-    m_LastClickedID: 25254
-    m_ExpandedIDs: 00000000ee610000f0610000f2610000f4610000f6610000f8610000fa610000fc610000fe61000000620000026200000462000000ca9a3b
+    m_SelectedIDs: 16630000
+    m_LastClickedID: 25366
+    m_ExpandedIDs: 000000005c6200005e62000060620000626200006462000066620000686200006a6200006c6200006e6200007062000072620000a462000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -732,7 +732,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ee610000f0610000f2610000f4610000f6610000f8610000fa610000fc610000fe61000000620000026200000462000000ca9a3b
+    m_ExpandedIDs: 000000005c6200005e62000060620000626200006462000066620000686200006a6200006c6200006e620000706200007262000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -827,7 +827,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: InspectorWindow
+  m_Name: LightingWindow
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -836,14 +836,14 @@ MonoBehaviour:
     y: 0
     width: 418
     height: 941
-  m_MinSize: {x: 276, y: 71}
+  m_MinSize: {x: 391, y: 411}
   m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 13}
+  m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 13}
   - {fileID: 14}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
